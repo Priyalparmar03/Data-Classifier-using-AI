@@ -29,13 +29,7 @@ iris-knn-classifier/
 ├── iris_knn_classifier.ipynb   # Main Jupyter Notebook (complete pipeline)
 ├── requirements.txt             # Python dependencies
 ├── README.md                    # Project documentation
-└── plots/                       # Auto-generated visualizations
-    ├── pairplot.png
-    ├── eda_overview.png
-    ├── elbow_method.png
-    ├── confusion_matrix.png
-    └── decision_boundary.png
-```
+
 
 ---
 
@@ -138,8 +132,4 @@ jupyter
 
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 - [Iris Dataset — UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/iris)
-- DecodeLabs Industrial Training Kit — Batch 2026
 
----
-
-*Built as part of the DecodeLabs AI Engineering Internship Program.*
