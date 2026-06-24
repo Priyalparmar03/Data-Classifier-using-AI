@@ -1,25 +1,8 @@
-# 🌸 Data Classification Using AI — KNN on Iris Dataset
-
-> **DecodeLabs Industrial Training Kit | Batch 2026 | Project 2**
-
-[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange?logo=scikit-learn)](https://scikit-learn.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-
----
+# IRIS Data Classification Using AI — KNN on Iris Dataset
 
 ## 📌 Project Overview
 
 This project demonstrates the complete **supervised learning pipeline** using the **K-Nearest Neighbors (KNN)** algorithm to classify Iris flower species. It covers every step from raw data to evaluation — following the IPO (Input → Process → Output) framework taught in the DecodeLabs AI training.
-
-### Pipeline
-
-```
-Raw Data → EDA → Feature Scaling → Train-Test Split → KNN Model → Confusion Matrix + F1 Score
-```
-
----
 
 ## 🗂️ Project Structure
 
@@ -33,7 +16,7 @@ iris-knn-classifier/
 
 ---
 
-## 📊 Dataset: The Iris Benchmark
+##  Dataset: The Iris Benchmark
 
 | Property | Value |
 |---|---|
@@ -44,7 +27,7 @@ iris-knn-classifier/
 
 ---
 
-## ⚙️ Pipeline Steps
+## Pipeline Steps
 
 1. **Load & Explore** — Load Iris dataset, check shape, class distribution, missing values
 2. **EDA** — Pairplot, correlation heatmap, class distribution chart
@@ -59,7 +42,7 @@ iris-knn-classifier/
 
 ---
 
-## 📈 Results
+##  Results
 
 | Metric | Score |
 |---|---|
@@ -69,7 +52,7 @@ iris-knn-classifier/
 
 ---
 
-## 🔑 Key Concepts Covered
+##  Key Concepts Covered
 
 | Concept | Explanation |
 |---|---|
@@ -83,7 +66,7 @@ iris-knn-classifier/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 ```bash
@@ -105,7 +88,7 @@ Or open directly in **VS Code** with the Jupyter extension.
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 ```
 numpy
@@ -128,8 +111,7 @@ jupyter
 
 ---
 
-## 📚 References
+Author 
 
-- [Scikit-learn Documentation](https://scikit-learn.org/stable/)
-- [Iris Dataset — UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/iris)
+Priyal Parmar 
 
